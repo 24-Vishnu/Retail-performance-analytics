@@ -6,7 +6,7 @@ A complete retail sales analysis project using **SQL, Python, and Power BI** to 
 
 The goal of this project was to understand how the business is performing across sales, profit, customers, products, regions, segments, and shipping methods.
 
-I worked through the project in stages — starting with data quality checks and SQL cleaning, followed by exploratory analysis in SQL and Python, and finally presenting the results through an interactive Power BI dashboard.
+I worked through the project in stages - starting with data quality checks and SQL cleaning, followed by exploratory analysis in SQL and Python, and finally presenting the results through an interactive Power BI dashboard.
 
 ## Project Goals
 
